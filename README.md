@@ -65,9 +65,7 @@ WHERE
     gender IS NULL OR age IS NULL OR category IS NULL OR 
     quantity IS NULL OR price_per_unit IS NULL OR cogs IS NULL;
 ```
-''' sql
-select * from retail_sales limit 10;
-'''
+
 
 ### 3. Data Analysis & Findings
 
